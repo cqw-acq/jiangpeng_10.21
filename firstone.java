@@ -4,5 +4,8 @@ public class firstone {
         System.out.println("Hello World");//println 换行：）
         System.out.println("Hello World");
         System.out.println("Hello World");
+
+        int a=123;
+        System.out.println(a);
     }
 }
